@@ -1,0 +1,9 @@
+{
+  "watchlist": [
+    "OGDC", "PPL", "KEL", "HBL", "MLCF", "MUGHAL",
+    "LUCK", "ENGRO", "MCB", "UBL", "PSO", "FCCL"
+  ],
+  "rsi_threshold": 35,
+  "sma_band": 2.0,
+  "lookback": "6mo"
+}

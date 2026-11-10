@@ -1,0 +1,13 @@
+{
+  "BAFL":   { "shares": 1000, "buy_price": 56.29, "thesis": "intact" },
+  "BAHL":    { "shares": 305,  "buy_price": 163.53,  "thesis": "intact" },
+  "BWCL":    { "shares": 255, "buy_price": 503.67, "thesis": "intact" },
+  "DCR":   { "shares": 1850, "buy_price": 37.94,  "thesis": "intact" },
+  "FABL":   { "shares": 600, "buy_price": 94.41,  "thesis": "intact" },
+  "FFC":   { "shares": 206, "buy_price": 547.64,  "thesis": "intact" },
+  "HUBC":   { "shares": 431, "buy_price": 210.47,  "thesis": "intact" },
+  "MEBL":   { "shares": 70, "buy_price": 507.79,  "thesis": "intact" },
+  "NML":   { "shares": 431, "buy_price": 150.66,  "thesis": "intact" },
+  "PPL":   { "shares": 225, "buy_price": 232.22,  "thesis": "intact" },
+  "SEARL":   { "shares": 750, "buy_price": 86.50,  "thesis": "intact" }
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "ts": "2026-10-04T22:43:38",
+    "type": "holding",
+    "symbol": "BWCL",
+    "action": "REVIEW",
+    "reason": "down 8%+, below SMA50 \u2192 thesis check needed",
+    "pnl_pct": -11.54,
+    "rsi": 33.4
+  },
+  {
+    "ts": "2026-10-04T22:43:38",
+    "type": "holding",
+    "symbol": "NML",
+    "action": "REVIEW",
+    "reason": "down 8%+, below SMA50 \u2192 thesis check needed",
+    "pnl_pct": -14.54,
+    "rsi": 36.4
+  },
+  {
+    "ts": "2026-10-04T22:43:38",
+    "type": "holding",
+    "symbol": "SEARL",
+    "action": "REVIEW",
+    "reason": "down 8%+, below SMA50 \u2192 thesis check needed",
+    "pnl_pct": -8.75,
+    "rsi": 37.5
+  }
+]

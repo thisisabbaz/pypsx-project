@@ -1,0 +1,19 @@
+[2026-10-04 20:28:59] === Scan start === weekend_scan=True watchlist=12 holdings=4
+[2026-10-04 20:29:43] Holdings evaluated: 4 · Candidates: 11
+[2026-10-04 20:32:29] EMAIL FAILED: Connection unexpectedly closed
+[2026-10-04 20:42:26] === Scan start === weekend_scan=True watchlist=12 holdings=4
+[2026-10-04 20:43:12] Holdings evaluated: 4 · Candidates: 11
+[2026-10-04 20:43:12] Nothing actionable. No alerts recorded.
+[2026-10-04 20:47:03] === Scan start === weekend_scan=True watchlist=12 holdings=4
+[2026-10-04 20:47:44] Holdings evaluated: 4 · Candidates: 11
+[2026-10-04 20:47:44] Nothing actionable. No alerts recorded.
+[2026-10-04 20:55:26] === Scan start === weekend_scan=True watchlist=12 holdings=11
+[2026-10-04 20:56:24] Holdings evaluated: 11 · Candidates: 11
+[2026-10-04 21:48:22] === Scan start === weekend_scan=True watchlist=12 holdings=11
+[2026-10-04 21:49:24] Holdings evaluated: 11 · Candidates: 11
+[2026-10-04 22:00:20] === Scan start === weekend_scan=True watchlist=12 holdings=11
+[2026-10-04 22:01:19] Holdings evaluated: 11 | Candidates: 11
+[2026-10-04 22:01:19] Recorded 3 alert(s) -> data/alerts.json
+[2026-10-04 22:42:39] === Scan start === weekend_scan=True watchlist=12 holdings=11
+[2026-10-04 22:43:38] Holdings evaluated: 11 | Candidates: 11
+[2026-10-04 22:43:38] Recorded 3 alert(s) -> data/alerts.json
